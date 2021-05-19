@@ -5,8 +5,8 @@
 * [Banking on Bitcoin](https://www.youtube.com/watch?v=tmxqlSevtkQ)
 * [Planet of the Humans](https://www.youtube.com/watch?v=4pXCftKF4uI)
 * [Too Big to Fail](https://www.youtube.com/watch?v=s9IdOU5Z_Ic)
-* Capitalism, A Love Story
-* Enron - The Smartest Guys in the Room
+* [Capitalism, A Love Story](https://www.youtube.com/watch?v=JeROnVUADj0)
+* [Enron - The Smartest Guys in the Room](https://www.youtube.com/watch?v=-w6duQhWuVk)
 * [The Rise and Rise of Bitcoin](https://www.youtube.com/watch?v=gcwnpvODd-8)
 * [Banking on Bitcoin](https://www.youtube.com/watch?v=tmxqlSevtkQ)
 * [Trust Machine](https://www.youtube.com/watch?v=hvohNgVWKvw)
@@ -20,7 +20,7 @@
 * [The Big Short](https://www.youtube.com/watch?v=vgqG3ITMv1Q)
 * Dope
 * [Hell or High Water](https://www.youtube.com/watch?v=JQoqsKoJVDw)
-* It's a Wonderful Life
+* [It's a Wonderful Life](https://www.youtube.com/watch?v=OTJCI1FNBfA)
 * [Gold 2016](https://www.youtube.com/watch?v=gdLXPv5NsA4)
 * [Trading Places](https://www.youtube.com/watch?v=Fupg2r1EJ9w)
 * [The Banker](https://www.youtube.com/watch?v=hp33zFcvyRU)
