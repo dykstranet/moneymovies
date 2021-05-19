@@ -33,3 +33,5 @@
 * [The Money Masters](https://www.youtube.com/watch?v=T76_dy8PraE)
 ## SHORTS:
 * [The American Dream](http://theamericandreamfilm.com/view-trailer.php)
+
+Please help keep this list up to date. If you see a mistake or want to add a movie, please do a git pull request on [github](https://github.com/dykstranet/moneymovies)  
