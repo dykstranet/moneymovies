@@ -17,7 +17,8 @@
 * [Crypto](https://www.youtube.com/watch?v=kYZut3DWvek)(2019)
 * [Inside Job](https://www.youtube.com/watch?v=XBZfsb7OO_k)
 * [Margin Call](https://www.youtube.com/watch?v=IjZ-ke1kJrA)
-* [The Big Short](https://www.youtube.com/watch?v=vgqG3ITMv1Q)
+* [The Big Short](https://www.youtube.com/watch?v=vgqG3ITMv1Q)(2015) 
+  American biographical comedy-drama film directed by Adam McKay and is based on the 2010 book The Big Short: Inside the Doomsday Machine by Michael Lewis  showing how the financial crisis of 2007–2008 was triggered by the United States housing bubble. Starring - Brad Pitt, Christian Bale, Steve Carell, Ryan Gosling
 * Dope
 * [Hell or High Water](https://www.youtube.com/watch?v=JQoqsKoJVDw)
 * [It's a Wonderful Life](https://www.youtube.com/watch?v=OTJCI1FNBfA)
