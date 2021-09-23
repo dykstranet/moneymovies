@@ -41,12 +41,6 @@ who are defining how this technology will shape our lives.
 Michael Moore serves as executive producer for 'Planet of the Humans,' Jeff Gibbs'
 documentary detailing the many damaging structural flaws and corporate ties of the
 environmental movement.
-* [Too Big to Fail](https://www.youtube.com/watch?v=s9IdOU5Z_Ic)(2011)
-Too Big to Fail chronicles the 2008 financial meltdown, focusing on the actions of U.S.
-Treasury Secretary Henry Paulson (William Hurt) and Ben Bernanke (Paul Giamatti),
-Chairman of the Federal Reserve System, to contain the problems during the period of
-August 2008 to October 13, 2008. The film starts with clips of news reports about the
-mortgage industry crisis and the forced sale of the troubled Bear Stearns to JPMorgan
 Chase, with Fed guarantees.
 * [Capitalism, A Love Story](https://www.youtube.com/watch?v=JeROnVUADj0)(2009) 
 Michael Moore's timely film looks at the successes and failures of the American capitalist
@@ -91,6 +85,12 @@ the Federal Reserve bank.
 Set in 20th Century Japan the documentary explores the role and power of Central Banks
 and how they can be used to change a country's economic political and social structures.
 ## FEATURES:
+* [Too Big to Fail](https://www.youtube.com/watch?v=s9IdOU5Z_Ic)(2011)
+Too Big to Fail chronicles the 2008 financial meltdown, focusing on the actions of U.S.
+Treasury Secretary Henry Paulson (William Hurt) and Ben Bernanke (Paul Giamatti),
+Chairman of the Federal Reserve System, to contain the problems during the period of
+August 2008 to October 13, 2008. The film starts with clips of news reports about the
+mortgage industry crisis and the forced sale of the troubled Bear Stearns to JPMorgan
 * [Crypto](https://www.youtube.com/watch?v=kYZut3DWvek) (2019)
 Demoted back to his hometown, a young Wall Street banker is drawn into investigating a
 tangled web of corruption and fraud in Upstate New York, affecting both his personal life and
